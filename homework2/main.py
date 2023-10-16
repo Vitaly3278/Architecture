@@ -7,5 +7,5 @@ from homework2.CupperGenerator import CupperGenerator
 
 if __name__ == '__main__':
     fabricList = [GemGenerator(), GoldGenerator(), SilverGenerator(), CupperGenerator()]
-    for i in range(10):
+    for i in range(5):
         rnd = random.choice(fabricList).create_item().open()
