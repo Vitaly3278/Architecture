@@ -1,0 +1,1 @@
+Разработать полную ERD домена в https://www.dbdesigner.net/
